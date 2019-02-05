@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Registro</string>
+    <string name="form_title">Formulario de registro</string>
+    <string name="hint_name">Nombre Completo</string>
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_sign_up">Registrarse</string>
+    <string name="err_msg_name">El nombre no puede estar vacío ni tener más de 30 caracteres</string>
+    <string name="err_msg_email">Introduce una dirección de correo válida</string>
+    <string name="err_msg_password">La contraseña debe tener entre 8 y 12 caracteres</string>
+
+</resources>
